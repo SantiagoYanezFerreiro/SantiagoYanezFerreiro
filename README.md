@@ -3,12 +3,12 @@ I'm a Junior Front End Developer based in Dublin.
 Welcome to my profile! :grinning:
 
 - :books: I'm a Computer Science Graduate and nowadays I am coursing a Full Stack Development Diploma at Code Institute.
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning React.
 - ⚡ I'm Open to **New Opportunities** and I’m looking to collaborate on any cool project!
 - :office: I work as Senior Consultant at Accenture Onsite Google. 
-- 🥰 Love **travelling**, **going to the gym**, **hiking** and **working on Personal Projects**
+- 🥰 Love travelling, going to the gym, hiking and working on Personal Projects.
 
-📫 Feel free to reach me out on: [LinkedIn](https://www.linkedin.com/in/santiagoyanezferreiro)
+📫 Feel free to reach me out on: [LinkedIn](https://www.linkedin.com/in/santiagoyanezferreiro).
 
 ### 🔧 Technologies & Tools
  #### Languages
@@ -39,5 +39,7 @@ Welcome to my profile! :grinning:
 ### Recent Projects
 
 <strong>Milestone 3 - Top Developer Resources: </strong><a href="https://github.com/SantiagoYanezFerreiro/Top_Developer_Resources" alt="Top Developer Resources" target="_blank">📋 Repo</a> | <a href="https://github.com/SantiagoYanezFerreiro/Top_Developer_Resources" alt="Top Developer Resources" target="_blank">🖥 Live Website</a>
+
 <strong>Milestone 2 - Zero Food Waste: </strong><a href="https://github.com/SantiagoYanezFerreiro/ZeroFoodWaste" alt="Zero Food Waste" target="_blank">📋 Repo</a> | <a href="https://github.com/SantiagoYanezFerreiro/ZeroFoodWaste" alt="Zero Food Waste" target="_blank">🖥 Live Website</a>
+
 <strong>Milestone 1 - Spartan Factory: </strong><a href="https://github.com/SantiagoYanezFerreiro/MilestoneProject1GymWebsite" alt="Spartan Factory" target="_blank">📋 Repo</a> | <a href="https://github.com/SantiagoYanezFerreiro/MilestoneProject1GymWebsite" alt="Spartan Factory" target="_blank">🖥 Live Website</a>
