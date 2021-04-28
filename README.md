@@ -4,7 +4,7 @@ Welcome to my profile! :grinning:
 
 - :books: I'm a Computer Science Graduate and nowadays I am coursing a Full Stack Development Diploma at Code Institute.
 - 🌱 I’m currently learning React 
-- ⚡ I'm Open to **New Opportunities**! and I’m looking to collaborate on any cool project
+- ⚡ I'm Open to **New Opportunities** and I’m looking to collaborate on any cool project!
 - :office: I work as Senior Consultant at Accenture Onsite Google. 
 - 🥰 Love **travelling**, **going to the gym**, **hiking** and **working on Personal Projects**
 
