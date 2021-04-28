@@ -38,6 +38,6 @@ Welcome to my profile! :grinning:
 
 ### Recent Projects
 
-2.  <strong>Milestone 3 - Top Developer Resources: </strong><a href="https://github.com/SantiagoYanezFerreiro/Top_Developer_Resources" alt="Top Developer Resources" target="_blank">📋 Repo</a> | <a href="https://github.com/SantiagoYanezFerreiro/Top_Developer_Resources" alt="Top Developer Resources" target="_blank">🖥 Live Website</a>
-3.  <strong>Milestone 2 - Zero Food Waste: </strong><a href="https://github.com/SantiagoYanezFerreiro/ZeroFoodWaste" alt="Zero Food Waste" target="_blank">📋 Repo</a> | <a href="https://github.com/SantiagoYanezFerreiro/ZeroFoodWaste" alt="Zero Food Waste" target="_blank">🖥 Live Website</a>
-4.  <strong>Milestone 1 - Spartan Factory: </strong><a href="https://github.com/SantiagoYanezFerreiro/MilestoneProject1GymWebsite" alt="Spartan Factory" target="_blank">📋 Repo</a> | <a href="https://github.com/SantiagoYanezFerreiro/MilestoneProject1GymWebsite" alt="Spartan Factory" target="_blank">🖥 Live Website</a>
+<strong>Milestone 3 - Top Developer Resources: </strong><a href="https://github.com/SantiagoYanezFerreiro/Top_Developer_Resources" alt="Top Developer Resources" target="_blank">📋 Repo</a> | <a href="https://github.com/SantiagoYanezFerreiro/Top_Developer_Resources" alt="Top Developer Resources" target="_blank">🖥 Live Website</a>
+<strong>Milestone 2 - Zero Food Waste: </strong><a href="https://github.com/SantiagoYanezFerreiro/ZeroFoodWaste" alt="Zero Food Waste" target="_blank">📋 Repo</a> | <a href="https://github.com/SantiagoYanezFerreiro/ZeroFoodWaste" alt="Zero Food Waste" target="_blank">🖥 Live Website</a>
+<strong>Milestone 1 - Spartan Factory: </strong><a href="https://github.com/SantiagoYanezFerreiro/MilestoneProject1GymWebsite" alt="Spartan Factory" target="_blank">📋 Repo</a> | <a href="https://github.com/SantiagoYanezFerreiro/MilestoneProject1GymWebsite" alt="Spartan Factory" target="_blank">🖥 Live Website</a>
