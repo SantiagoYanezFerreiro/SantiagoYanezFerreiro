@@ -38,7 +38,7 @@ Welcome to my profile! :grinning:
 
 ### Recent Projects
 
-<strong>Milestone 3 - Top Developer Resources: </strong><a href="https://github.com/SantiagoYanezFerreiro/Top_Developer_Resources" alt="Top Developer Resources" target="_blank">📋 Repo</a> 
+<strong>Milestone 3 - Top Developer Resources: </strong><a href="https://github.com/SantiagoYanezFerreiro/Top_Developer_Resources" alt="Top Developer Resources" target="_blank">📋 Repo</a> | <a href="https://flask-top-developer-resources.herokuapp.com/home" alt="Top Developer Resources" target="_blank">🖥 Live Website</a>
 
 <strong>Milestone 2 - Zero Food Waste: </strong><a href="https://github.com/SantiagoYanezFerreiro/ZeroFoodWaste" alt="Zero Food Waste" target="_blank">📋 Repo</a> | <a href="https://santiagoyanezferreiro.github.io/ZeroFoodWaste/index.html" alt="Zero Food Waste" target="_blank">🖥 Live Website</a>
 
