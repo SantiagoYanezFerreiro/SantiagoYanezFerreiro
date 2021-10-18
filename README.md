@@ -1,11 +1,11 @@
 ## Hey there, I'm Santiago! 👋 
-I'm a Junior Front End Developer based in Dublin. 
+I'm a Junior Developer based in Dublin. 
 Welcome to my profile! :grinning:
 
-- :books: I'm a Computer Science Graduate and nowadays I am coursing a Full Stack Development Diploma at Code Institute.
-- 🌱 I’m currently learning React.
+- :books: I'm a Computer Science Graduate and finished a Full Stack Bootcamp as well.
+
 - ⚡ I'm Open to **New Opportunities** and I’m looking to collaborate on any cool project!
-- :office: I work as Senior Consultant at Accenture Onsite Google. 
+- :office: I work as Senior Technical Support Analyst at Indeed.
 - 🥰 Love travelling, going to the gym, hiking and working on Personal Projects.
 
 📫 Feel free to reach me out on: [LinkedIn](https://www.linkedin.com/in/santiagoyanezferreiro).
@@ -18,7 +18,6 @@ Welcome to my profile! :grinning:
 ![Python](https://img.shields.io/badge/Python%20-%23004D7A.svg?&style=for-the-badge&logo=python&logoColor=ffdf76)
 
  #### Libraries and Frameworks
-![React](https://img.shields.io/badge/React%20-%231572B6.svg?&style=for-the-badge&logo=React&logoColor=CCC)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)
 ![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?&style=for-the-badge&logo=Flask&logoColor=FFFFFF)
 ![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717)
@@ -26,7 +25,6 @@ Welcome to my profile! :grinning:
 #### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
 ![SQLite](https://img.shields.io/badge/SQLite%20-%23003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=FFFFFF)
 
  #### Version Control, Hosting & other tools 
@@ -37,6 +35,8 @@ Welcome to my profile! :grinning:
 ![Stripe](https://img.shields.io/badge/Stripe%20-%23646EDE.svg?&style=for-the-badge&logo=Stripe&logoColor=FFFFFF) 
 
 ### Recent Projects
+
+<strong> Top Notch Coffee: </strong><a href="https://github.com/SantiagoYanezFerreiro/Top_Notch_Coffee" alt="Top Notch Coffee" target="_blank">📋 Repo</a> | <a href="https://topnotchcoffee.herokuapp.com/" alt="Top Notch Coffee" target="_blank">🖥 Live Website</a>
 
 <strong> Top Developer Resources: </strong><a href="https://github.com/SantiagoYanezFerreiro/Top_Developer_Resources" alt="Top Developer Resources" target="_blank">📋 Repo</a> | <a href="https://flask-top-developer-resources.herokuapp.com/home" alt="Top Developer Resources" target="_blank">🖥 Live Website</a>
 
