@@ -2,10 +2,9 @@
 I'm a Web Developer based in Dublin. 
 Welcome to my profile! :grinning:
 
+- :office: I work as Developer Engineer at Salesforce.
 - :books: I'm a Computer Science Graduate and finished a Full Stack Bootcamp as well.
-
 - ⚡ I'm Open to **New Opportunities** and I’m looking to collaborate on any cool project!
-- :office: I work as Senior Technical Support Analyst at Indeed.
 - 🥰 Love travelling, going to the gym, hiking and working on Personal Projects.
 
 📫 Feel free to reach me out on: [LinkedIn](https://www.linkedin.com/in/santiagoyanezferreiro).
@@ -18,14 +17,14 @@ Welcome to my profile! :grinning:
 ![Python](https://img.shields.io/badge/Python%20-%23004D7A.svg?&style=for-the-badge&logo=python&logoColor=ffdf76)
 
  #### Libraries and Frameworks
-![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)
 ![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?&style=for-the-badge&logo=Flask&logoColor=FFFFFF)
-![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717)
+![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?&style=for-the-badge&logo=Flask&logoColor=FFFFFF)
+
 
 #### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
-![SQLite](https://img.shields.io/badge/SQLite%20-%23003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=FFFFFF)
+
 
  #### Version Control, Hosting & other tools 
 ![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC) 
