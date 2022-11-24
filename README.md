@@ -1,5 +1,5 @@
 ## Hey there, I'm Santiago! 👋 
-I'm a Junior Developer based in Dublin. 
+I'm a Web Developer based in Dublin. 
 Welcome to my profile! :grinning:
 
 - :books: I'm a Computer Science Graduate and finished a Full Stack Bootcamp as well.
