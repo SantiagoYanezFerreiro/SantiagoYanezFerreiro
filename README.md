@@ -41,8 +41,6 @@ Welcome to my profile! :grinning:
 
 ### Recent Projects
 
-<strong> Top Notch Coffee: </strong><a href="https://github.com/SantiagoYanezFerreiro/Top_Notch_Coffee" alt="Top Notch Coffee" target="_blank">📋 Repo</a> | <a href="https://topnotchcoffee.herokuapp.com/" alt="Top Notch Coffee" target="_blank">🖥 Live Website</a>
-
 <strong> Top Developer Resources: </strong><a href="https://github.com/SantiagoYanezFerreiro/Top_Developer_Resources" alt="Top Developer Resources" target="_blank">📋 Repo</a> | <a href="https://flask-top-developer-resources.herokuapp.com/home" alt="Top Developer Resources" target="_blank">🖥 Live Website</a>
 
 <strong> Zero Food Waste: </strong><a href="https://github.com/SantiagoYanezFerreiro/ZeroFoodWaste" alt="Zero Food Waste" target="_blank">📋 Repo</a> | <a href="https://santiagoyanezferreiro.github.io/ZeroFoodWaste/index.html" alt="Zero Food Waste" target="_blank">🖥 Live Website</a>
