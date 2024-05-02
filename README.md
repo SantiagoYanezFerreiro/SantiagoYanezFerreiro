@@ -4,9 +4,9 @@ Welcome to my profile! I'm a passionate Front-End Developer based in Madrid, wor
 - :office: Technical Analyst at OneTrust.
 - :books: Computer Science Graduate with a Full Stack Developer Bootcamp certification
 - ⚡ Actively seeking new opportunities and eager to collaborate on innovative projects
-- 🥰 Avid traveller, fitness enthusiast, hiking fan, and technology lover.
+- :hourglass: Avid traveller, fitness enthusiast, hiking fan, and technology lover.
 
-📫 Feel free to connect with me on Linkedin!: [LinkedIn](https://www.linkedin.com/in/santiagoyanezferreiro).
+📫 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/santiagoyanezferreiro).
 
 ### 🔧 Technologies & Tools
  #### Languages
