@@ -1,13 +1,12 @@
 ## Hey there, I'm Santiago! 👋 
-I'm a Web Developer based in Dublin. 
-Welcome to my profile! :grinning:
+Welcome to my profile! I'm a passionate Front-End Developer based in Madrid, currently working at OneTrust.
 
-- :office: I work as Developer Engineer at Salesforce.
-- :books: I'm a Computer Science Graduate and finished a Full Stack Bootcamp as well.
-- ⚡ I'm Open to **New Opportunities** and I’m looking to collaborate on any cool project!
-- 🥰 Love travelling, going to the gym, hiking and working on Personal Projects.
+- :office: Technical Analyst at OneTrust.
+- :books: Computer Science Graduate with a Full Stack Developer Bootcamp certification
+- ⚡ Actively seeking new opportunities and eager to collaborate on innovative projects
+- 🥰 Avid traveller, fitness enthusiast, hiking fan, and technology lover.
 
-📫 Feel free to reach me out on: [LinkedIn](https://www.linkedin.com/in/santiagoyanezferreiro).
+📫 Feel free to connect with me on Linkedin!: [LinkedIn](https://www.linkedin.com/in/santiagoyanezferreiro).
 
 ### 🔧 Technologies & Tools
  #### Languages
