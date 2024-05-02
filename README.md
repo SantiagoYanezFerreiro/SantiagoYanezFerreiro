@@ -1,5 +1,5 @@
 ## Hey there, I'm Santiago! 👋 
-Welcome to my profile! I'm a passionate Front-End Developer based in Madrid, currently working at OneTrust.
+Welcome to my profile! I'm a passionate Front-End Developer based in Madrid, working as a Technical Analyst at OneTrust.
 
 - :office: Technical Analyst at OneTrust.
 - :books: Computer Science Graduate with a Full Stack Developer Bootcamp certification
