@@ -1,5 +1,5 @@
 ## Hey there, I'm Santiago! 👋 
-Welcome to my profile! I'm a **Software Developer & Universal Consent Consultant** based in Madrid, currently at **BASF**, where I build scalable apps with **FastAPI, PostgreSQL, and Vue**, and integrate **OneTrust + Salesforce Marketing Cloud** for Privacy-ready consent and personalization.
+Welcome to my profile! I'm a **Software Developer & Universal Consent Consultant** based in Madrid. Currently working at **BASF**, where I build scalable apps with **FastAPI, PostgreSQL, and Vue**, and integrate **OneTrust + Salesforce Marketing Cloud** for Privacy-ready consent and personalization.
 
 - :office: Software Developer | Universal Consent Consultant @ BASF  
 - :books: Higher Diploma in Computing (DBS) + Full Stack Bootcamp Certification (Code Institute)  
@@ -44,14 +44,8 @@ Welcome to my profile! I'm a **Software Developer & Universal Consent Consultant
 - **Google Calendar Clone** — React/TS practice app (events, views, accessibility)  
   🔗 [Repo](https://github.com/SantiagoYanezFerreiro/google-calendar-clone)
 
-- **AI Clip Generator** — Upload → Transcription → AI-generated short clips (FastAPI + React)  
-  🔗 [Repo](https://github.com/SantiagoYanezFerreiro/ai-clip-generator)
-
 - **Top Developer Resources** — Flask + MongoDB web app for curated learning resources  
   📋 [Repo](https://github.com/SantiagoYanezFerreiro/Top_Developer_Resources) | 🖥 [Live Site](https://topdeveloperresources.onrender.com/resources)
 
 - **Zero Food Waste** — Awareness website on food waste impact  
   🔗 [Repo](https://github.com/SantiagoYanezFerreiro/ZeroFoodWaste)
-
-- **Blocker App Browser Extension** — Minimal Chrome extension to block distracting sites  
-  🔗 [Repo](https://github.com/SantiagoYanezFerreiro/BlockerAppBrowserExtension)
